@@ -1,7 +1,9 @@
 
 [![MasterHead](https://hub.packtpub.com/wp-content/uploads/2018/03/Cover-Image.png)](https://bire210.github.io/)
-<h1 align="center">Hi 👋, I'm Birendra Mahto</h1>
-<h3 align="center">An ambitious Backend Developer with good knowledge of HTML, CSS, JavaScript, NodeJS,Express and MongoDB. Having problem-solving mindset and the ability to perform well in collaboration and individually, look forward to working as an accountable and competent employee in an exciting Tech company.</h3>
+<h1 align="center">Hi 👋, I'm Birendra Kumar Mahto</h1>
+
+<h3 align="center">An ambitious Node JS developer with good knowledge of HTML, CSS, JavaScript, RactJs, Tailwind, NodeJS, Express, and MongoDB. Having a problem-solving mindset and the ability to perform well in collaboration and individually, look forward to working as an accountable and competent employee in an exciting Tech company.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bire210&label=Profile%20views&color=0e75b6&style=flat" alt="bire210" /> </p>
