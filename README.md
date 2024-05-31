@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bire210.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://birendra-mahto-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript,Node.js**
 
